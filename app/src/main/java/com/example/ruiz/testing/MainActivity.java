@@ -1,5 +1,8 @@
 package com.example.ruiz.testing;
 
+//Testing Github version control
+//Stop The Clock v0.4
+
 import android.os.CountDownTimer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
